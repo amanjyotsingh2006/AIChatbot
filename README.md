@@ -3,6 +3,8 @@
 
 #### A lightweight AI chatbot web UI that lets users send text and images to an AI model and receive responses. This repository contains the front-end code (HTML/CSS/JS) and guidance for wiring it up securely to a server-side proxy for the API key.
 
+# Reference Interface Preview
+<img width="1895" height="902" alt="Image" src="https://github.com/user-attachments/assets/80851df9-c591-4d5e-aa21-56879b483e99" />
 
 ## 🔎 Project overview
 ### This project is a minimal, attractive chat UI built with plain HTML, CSS and vanilla JavaScript. It supports:
